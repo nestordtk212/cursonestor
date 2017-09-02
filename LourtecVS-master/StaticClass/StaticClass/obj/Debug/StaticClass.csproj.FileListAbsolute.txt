@@ -1,0 +1,6 @@
+C:\Users\Administrador\Downloads\LourtecVS-master\StaticClass\StaticClass\bin\Debug\StaticClass.exe.config
+C:\Users\Administrador\Downloads\LourtecVS-master\StaticClass\StaticClass\bin\Debug\StaticClass.exe
+C:\Users\Administrador\Downloads\LourtecVS-master\StaticClass\StaticClass\bin\Debug\StaticClass.pdb
+C:\Users\Administrador\Downloads\LourtecVS-master\StaticClass\StaticClass\obj\Debug\StaticClass.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Downloads\LourtecVS-master\StaticClass\StaticClass\obj\Debug\StaticClass.exe
+C:\Users\Administrador\Downloads\LourtecVS-master\StaticClass\StaticClass\obj\Debug\StaticClass.pdb
